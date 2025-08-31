@@ -28,8 +28,8 @@ We welcome contributions from the community! Whether you're fixing bugs, adding 
 
 ## 📫 Get In Touch
 
-- 💼 [Website](https://insightfy.com)
-- 📧 Email: info@insightfy.com
+- 💼 [Website](https://insightfy.app)
+- 📧 Email: info@insightfy.app
 - 🐦 Twitter: @insightfy
 
 ---
